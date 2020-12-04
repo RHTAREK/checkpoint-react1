@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: red;
+ 
 }
 
 .App-logo {
@@ -15,11 +15,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.ktiba{display: flex;
-  flex-direction: column;
- 
-  align-self: flex-end;
-}
+
+
 .App-header {
   background-color: #115df5;
   min-height: 100vh;
